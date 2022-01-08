@@ -1,9 +1,10 @@
 ---
 title: Olá mundo!
-tags: [aleatorio]
-date: 2020-05-10T05:25:44.226Z
+tags:
+  - aleatorio
 path: blog/helloworld
-cover: ./preview.png
+date: 2020-05-10T05:25:44.226Z
+cover: helloworld.png
 excerpt: O inicio de tudo
 ---
 
